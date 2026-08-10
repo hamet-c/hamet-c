@@ -19,10 +19,22 @@ machine learning and data science.
 
 <p align="center">
   <a href="https://github.com/acm-ccny/Prism">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=acm-ccny&repo=Prism&show_owner=true" alt="Prism" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=acm-ccny&repo=Prism&show_owner=true&theme=github_dark" />
+      <img src="https://github-stats-extended.vercel.app/api/pin/?username=acm-ccny&repo=Prism&show_owner=true&theme=github_light" alt="Prism" />
+    </picture>
   </a>
   <a href="https://github.com/SahilMulki/brain-tumor-detection">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=SahilMulki&repo=brain-tumor-detection&show_owner=true" alt="Brain Tumor MRI Detection" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=SahilMulki&repo=brain-tumor-detection&show_owner=true&theme=github_dark" />
+      <img src="https://github-stats-extended.vercel.app/api/pin/?username=SahilMulki&repo=brain-tumor-detection&show_owner=true&theme=github_light" alt="Brain Tumor MRI Detection" />
+    </picture>
+  </a>
+  <a href="https://github.com/hamet-c/Sports">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=hamet-c&repo=Sports&show_owner=true&theme=github_dark" />
+      <img src="https://github-stats-extended.vercel.app/api/pin/?username=hamet-c&repo=Sports&show_owner=true&theme=github_light" alt="NBA Player Props Prediction Engine" />
+    </picture>
   </a>
 </p>
 
@@ -49,12 +61,15 @@ machine learning and data science.
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claudecode&logoColor=white)
 
-## Activity
+## Stats
 
 <p align="center">
-  <img src="./metrics.isocalendar.svg" alt="Commit calendar for the past six months" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=hamet-c&layout=compact&langs_count=8" alt="Most used languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=hamet-c&show_icons=true&theme=github_dark" />
+    <img src="https://github-stats-extended.vercel.app/api?username=hamet-c&show_icons=true&theme=github_light" alt="GitHub stats" height="165" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=hamet-c&layout=compact&langs_count=6&theme=github_dark" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=hamet-c&layout=compact&langs_count=6&theme=github_light" alt="Most used languages" height="165" />
+  </picture>
 </p>
