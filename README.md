@@ -12,8 +12,8 @@
   </a>
 </p>
 
-I'm a computer science student at The City College of New York with a strong interest in
-machine learning and data science.
+Computer science student at The City College of New York.
+I like machine learning and c++
 
 ## Favorite projects
 
