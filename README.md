@@ -12,9 +12,6 @@
   </a>
 </p>
 
-Computer science student at The City College of New York.
-I like machine learning and c++
-
 ## Favorite projects
 
 <p align="center">
